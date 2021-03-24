@@ -2,5 +2,15 @@
 
 keyboard untuk bermain:
 
-a = untuk menjalankan player1
-l = untuk menjalankan player2
+<ul>
+  <li>
+  A = untuk menjalankan player1
+  </li>
+  <li>
+  L = untuk menjalankan player2
+  </li>
+</ul>
+
+# note
+
+Keyboard tidak perlu mengaktifkan caps lock.
